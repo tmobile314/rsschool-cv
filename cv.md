@@ -10,7 +10,7 @@ I want to become a frontend developer. It’s my goal. I don’t have any develo
 
 ## Skills:
 
-* programming languages: С, HTML, CSS
+* programming languages: С, C++, HTML, CSS
 * version control system: git
 * methodologies: Scrum, Waterfall
 * work in test team
